@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-podcast {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    width: 100vw;
+    height: 30vh;
+    padding: 25px;
+    background-size: cover;
+}
+
+.pod {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: white;
+}
+
+.bg {
+    background-color: white;
+    padding: 25px;
+}
+
+.artist-card {
+    margin: 8px;
+    padding: 8px;
+}
+
+.image {
+    width: 120px;
+    height: 90px;
+    margin: 5px;
+}
+
+.h1 {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+.h2 {
+    color: #5a7184;
+    font-size: 12px;
+    text-align: center;
+}
+
+.bg-v {
+    background-color: #151765;
+    padding: 25px;
+}
+
+.pad {
+    padding: 10px;
+}
+
+.h5 {
+    color: white;
+    font-size: 12px;
+}
+
+.h4 {
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.h3 {
+    font-size: 8px;
+}
+
+.left {
+    text-align: left;
+}
+
+.margi {
+    margin-bottom: 15px;
+}
+
+.btn2 {
+    background-color: #151765;
+    text-align: center;
+    padding: 3px;
+    color: white;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 0px;
+    width: 70px;
+}
