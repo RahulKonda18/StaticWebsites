@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-home {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png');
+    background-size: cover;
+    width: 100vw;
+    padding: 25px;
+    text-align: center;
+}
+
+.h1 {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.h2 {
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color: #98a1bd;
+    text-align: center;
+}
+
+.margin2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.bg-2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    background-size: cover;
+    width: 75vw;
+    padding: 50px;
+    padding-bottom: 50px;
+}
+
+.h12 {
+    margin-bottom: 40px;
+}
+
+.but {
+    background-color: #8e97fd;
+    color: white;
+    font-size: 15px;
+    font-family: "Bree Serif";
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0px;
+}
+
+.color {
+    background-color: #03174c;
+    width: 100vw;
+    background-size: cover;
+}
+
+.c2 {
+    padding: 25px;
+    height: 100vh;
+}
+
+.im2 {
+    background-size: cover;
+    width: 100vw;
+    ;
+}
+
+.left {
+    text-align: left;
+}
+
+.white {
+    color: white;
+}
+
+.imd {
+    width: 90px;
+    height: 60px;
+}
