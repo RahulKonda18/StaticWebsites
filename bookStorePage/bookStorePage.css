@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-black {
+    background-color: black;
+    background-size: cover;
+    width: 100vw;
+    padding: 30px;
+    font-family: "Bree Serif";
+}
+
+.bg-black2 {
+    background-color: black;
+    background-size: cover;
+    width: 100vw;
+    padding: 30px;
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.h1 {
+    color: white;
+}
+
+.image {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 150px;
+    height: 200px;
+}
+
+.card {
+    padding: 0px;
+    border-style: none;
+    background-color: #e6f6ff;
+    padding-right: 20px;
+}
+
+.h2 {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    color: #183b56;
+}
+
+.h3 {
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+.author {
+    font-size: 12px;
+    padding-left: 20px;
+    color: #9aa5b1;
+}
+
+.but {
+    padding-left: 20px;
+}
+
+.white {
+    color: white;
+}
+
+.image2 {
+    width: 75px;
+    height: 120px;
+}
+
+.card2 {
+    margin-bottom: 25px;
+}
+
+.img2 {
+    text-align: center;
+    width: 200px;
+    height: 300px;
+}
